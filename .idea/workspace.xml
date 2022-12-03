@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1812ce4b-dc3f-4c79-b58d-49d0e59dd3d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GzZIVQ0yxKDMUbqc1pSnnFDS97" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\rune-16-18" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\rune-16-18\image" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1812ce4b-dc3f-4c79-b58d-49d0e59dd3d8" name="Default Changelist" comment="" />
+      <created>1667393292632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667393292632</updated>
+      <workItem from="1667393294177" duration="397000" />
+      <workItem from="1667470011497" duration="24000" />
+      <workItem from="1667565324095" duration="30000" />
+      <workItem from="1667817473062" duration="2575000" />
+      <workItem from="1667901876257" duration="319000" />
+      <workItem from="1667906341348" duration="47000" />
+      <workItem from="1668248468357" duration="5823000" />
+      <workItem from="1668266105225" duration="4869000" />
+      <workItem from="1668334282635" duration="1511000" />
+      <workItem from="1668336337975" duration="37000" />
+      <workItem from="1668506709492" duration="3651000" />
+      <workItem from="1668593487183" duration="16087000" />
+      <workItem from="1668622191609" duration="1315000" />
+      <workItem from="1668679441083" duration="4358000" />
+      <workItem from="1668765552709" duration="3561000" />
+      <workItem from="1668854463199" duration="2657000" />
+      <workItem from="1668857219617" duration="26000" />
+      <workItem from="1668857955463" duration="187000" />
+      <workItem from="1669025492266" duration="31000" />
+      <workItem from="1669269635260" duration="1929000" />
+      <workItem from="1669271629557" duration="1765000" />
+      <workItem from="1669273459225" duration="1767000" />
+      <workItem from="1669284121792" duration="15000" />
+      <workItem from="1669284280879" duration="149000" />
+      <workItem from="1669285308548" duration="5053000" />
+      <workItem from="1669308629550" duration="5754000" />
+      <workItem from="1669382702962" duration="781000" />
+      <workItem from="1669384707256" duration="3685000" />
+      <workItem from="1669665373123" duration="1662000" />
+      <workItem from="1669701733694" duration="2748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#HTML" timestamp="1668335128167">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#HTML/0.0.1366.738@0.0.1366.738" timestamp="1668335128167" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1668855075549">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1668855075549" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1668765563180">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1668765563180" />
+  </component>
+</project>

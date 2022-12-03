@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.header{
+    position: absolute;
+    width: 100%;
+    top: 30px;
+}
+.header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header ul{
+    display: flex;
+    column-gap: 20px;
+}
+.header li{
+    color: white;
+}
+.header li:hover{
+    color: orange;
+}
+.sec1{
+    background: url("./image/Rectangle 1.png") center/cover no-repeat;
+    padding: 237px 0 248px;
+    position: relative;
+    overflow: hidden;
+}
+.sec1 .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sec1__left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.sec1 h1{
+    font-size: 60px;
+    color: white;
+    position: relative;
+    margin-bottom: 35px;
+}
+.sec1 h1:after{
+    content: '';
+    width: 150px;
+    height: 64px;
+    background: url("./image/вместе с.png")no-repeat;
+    display: block;
+    position: absolute;
+    right: -120px;
+}
+.sec1 button{
+    width: 230px;
+    height: 50px;
+    border-radius: 60px;
+    background: linear-gradient(92.71deg, #0499DD 0%, #17C1BC 100%);
+    color: white;
+    margin-top: 60px;
+}
+.sec1__right{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.sec1__carousel{
+    width: 740px;
+    position: absolute;
+    right: -125px;
+
+}
+.box__play{
+    position: relative;
+}
+.play{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.sec2{
+    margin-top: 263px;
+}
+.footer-wrapper {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.navigate-footer {
+    display: flex;
+    column-gap: 90px;
+    align-items: center;
+}
+
+.footer-links {
+    display: flex;
+}
+
+.footer-links ul li a {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #282828;
+    font-weight: 500;
+}
+
+.footer-links ul li {
+    margin-top: 8px;
+}
+
+.footer-contact {
+    display: flex;
+    column-gap: 100px;
+    align-items: center;
+}
+
+.footer-social div {
+    display: flex;
+}
+
+.footer-social div {
+    display: flex;
+    column-gap: 10px;
+}
+
+.footer-social div p {
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.footer-social-2 div {
+    display: flex;
+}
+
+
